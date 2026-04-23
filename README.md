@@ -1,46 +1,46 @@
- 👋 Hi there, I'm Faizullah Hussain (@Faizullah98)
+# 👋 Hi there, I'm Faizullah Hussain (@faizullahhussain)
 
-### 🎯 **WordPress Designer & Frontend Developer**  
+### 🎯 **Frontend Engineer & WordPress Expert** I specialize in bridging the gap between high-end design and functional code. Originally a WordPress designer using Elementor, I have transitioned into professional frontend engineering, building custom-coded, performant web applications using the modern React ecosystem.
 
-I design and build modern, responsive websites using WordPress and the Elementor page builder. Alongside my client work, I also work on frontend development with HTML, CSS, JavaScript, Bootstrap, and SCSS to create custom-coded websites.---
+---
 
 ### 💡 Frontend Development Skills
 
-- 🔹 HTML & CSS (layouts, animations, responsive design)  
-- 🔹 JavaScript (interactivity, DOM manipulation)  
-- 🔹 Bootstrap (quick responsive UI building)  
-- 🔹 SCSS (modular and maintainable styling)  
-- 🔹 Git & GitHub (version control)
+- ⚛️ **React.js** (Hooks, Routing, State Management, Vite)
+- 🔹 **Modern JavaScript** (ES6+, Async/Await, DOM Manipulation, Fetch API)
+- 🔹 **HTML5 & CSS3** (Responsive Design, Flexbox, Grid)
+- 🔹 **SCSS & Bootstrap** (Modular styling and rapid UI prototyping)
+- 🚀 **Git & GitHub** (Version Control, GitHub Actions, CI/CD)
 
 ---
 
 ### 🧰 Tools & Technologies
 
-- WordPress, Elementor, WPBakery  
-- HTML, CSS, JavaScript  
-- Bootstrap, SCSS  
-- Git, GitHub  
-- Figma, VS Code
+- **Core:** React, JavaScript, Vite, SCSS, HTML5
+- **CMS:** WordPress, Elementor, WPBakery
+- **DevOps:** GitHub Actions, Git, GitHub Pages
+- **Design:** Figma, VS Code (Mimo Dark Theme)
 
 ---
 
 ### 📂 Featured Projects
- 
-- 🌐 [Portfolio Website](https://faizullah98.github.io/portfolio/)  
-- 🔧 [WPGuider – WordPress Services Platform](https://wpguider.info)
+
+- 💰 [**React Expense Tracker**](https://faizullahhussain.github.io/expense-tracker/)  
+  *A professional budget manager featuring local storage persistence, dynamic search filtering, and complex state management.*
+  
+- 🌐 [**Professional Portfolio**](https://faizullahhussain.github.io/portfolio/)  
+  *My personal showcase built with custom HTML, CSS, and JavaScript interactivity.*
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)  
-<!-- - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com) -->
+- 📧 Email: [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)
+- 💻 GitHub: [@Faizullahhussain](https://github.com/faizullahhussain)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Faizullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizullah98&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizullah98&layout=compact&theme=radical)
-
----
+![Faizullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizullahhussain&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizullahhussain&layout=compact&theme=radical)
