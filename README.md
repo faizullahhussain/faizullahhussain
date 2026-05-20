@@ -41,6 +41,13 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Faizullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizullahhussain&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizullahhussain&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahhussain&theme=radical" alt="Faizullah's Streak Stats" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/faizullahhussain?style=for-the-badge&logo=github&color=5c4dfc&labelColor=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/faizullahhussain/react-tmdb-movie-app?style=for-the-badge&logo=github&color=5c4dfc&labelColor=1a1a1a" alt="Movie App Stars" />
+</p>
