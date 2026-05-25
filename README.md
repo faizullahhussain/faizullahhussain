@@ -28,19 +28,18 @@
 - 💰 [**React Expense Tracker**](https://faizullahhussain.github.io/expense-tracker/)  
   *A professional budget manager featuring local storage persistence, dynamic search filtering, and complex state management.*
   
-- 🌐 [**Professional Portfolio**](https://faizullahhussain.github.io/portfolio/)  
-  *My personal showcase built with custom HTML, CSS, and JavaScript interactivity.*
+- 🌐 [**React TMDB Movie App**](https://faizullahhussain.github.io/react-tmdb-movie-app/)  
+  *A cinematic movie discovery web app built with React, SCSS, and the TMDB API featuring dynamic searching and a local-storage-backed favorites system.*
 
 ---
 
 ### 📫 Let's Connect
 
 - 📧 Email: [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)
-- 💻 GitHub: [@Faizullahhussain](https://github.com/faizullahhussain)
+- 💻 GitHub: [@faizullahhussain](https://github.com/faizullahhussain)
 
 ---
 
-### 📊 GitHub Stats
 ### 📊 GitHub Stats
 
 <p align="left">
