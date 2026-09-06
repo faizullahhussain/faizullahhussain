@@ -13,7 +13,7 @@ I started my professional career developing WordPress websites and have transiti
 - ⚛️ **React.js** — Components, Hooks, Props, State Management, React Router
 - 🔹 **JavaScript (ES6+)** — Async/Await, Fetch API, DOM Manipulation, Modern JavaScript
 - 🎨 **HTML5 & CSS3** — Responsive Design, Flexbox, Grid
-- 💅 **SCSS & Bootstrap** — Modular and responsive styling
+- 💅 **SCSS & Bootstrap & Tailwindcss** — Modular and responsive styling
 - 🔗 **REST APIs** — API Integration and asynchronous data handling
 - 🐙 **Git & GitHub** — Version Control and Collaboration
 
