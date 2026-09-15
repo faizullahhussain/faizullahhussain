@@ -81,7 +81,7 @@ A responsive movie discovery application built with React, SCSS, and the TMDB AP
 - 📧 **Email:** [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)
 - 💻 **GitHub:** [@faizullahhussain](https://github.com/faizullahhussain)
 - 🌐 **Portfolio:** [faizullahhussain.github.io/portfolio](https://faizullahhussain.github.io/portfolio/)
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/faizullah-hussain/)
 
 ---
 
