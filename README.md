@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizullah Hussain
 
-### Frontend Developer | React.js | JavaScript
+### Frontend Developer | WordPress Developer | React.js | JavaScript
 
 I'm a frontend developer focused on building responsive, interactive, and user-friendly web applications using React.js and modern JavaScript.
 
