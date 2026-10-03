@@ -2,91 +2,91 @@
 
 ### Frontend Developer | WordPress Developer | React.js | JavaScript
 
-I'm a frontend developer focused on building responsive, interactive, and user-friendly web applications using React.js and modern JavaScript.
+I'm a frontend developer focused on building **responsive, interactive, and user-friendly web applications** with React.js and modern JavaScript.
 
-I started my professional career developing WordPress websites and have transitioned into modern frontend development with React. I enjoy turning UI designs into functional interfaces, building reusable components, integrating APIs, and continuously improving my frontend development skills.
+I started my professional career with WordPress development and have transitioned into modern frontend development with React. I enjoy turning UI designs into functional interfaces, building reusable components, integrating APIs, and continuously improving my skills.
 
 ---
 
-### 💡 Frontend Development
+## 💡 Frontend Development
 
-- ⚛️ **React.js** — Components, Hooks, Props, State Management, React Router
-- 🔹 **JavaScript (ES6+)** — Async/Await, Fetch API, DOM Manipulation, Modern JavaScript
+- ⚛️ **React.js** — Components, Hooks, Props, State, React Router
+- 🔹 **JavaScript (ES6+)** — Async/Await, Fetch API, DOM, Modern JavaScript
 - 🎨 **HTML5 & CSS3** — Responsive Design, Flexbox, Grid
-- 💅 **SCSS & Bootstrap & Tailwindcss** — Modular and responsive styling
-- 🔗 **REST APIs** — API Integration and asynchronous data handling
-- 🐙 **Git & GitHub** — Version Control and Collaboration
+- 💅 **Tailwind CSS, SCSS & Bootstrap** — Responsive and modular styling
+- 🔗 **REST APIs** — API integration and asynchronous data handling
+- 🐙 **Git & GitHub** — Version control and collaboration
 
 ---
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, SCSS, Bootstrap
-- **React Ecosystem:** React Router, Vite, React Hooks
-- **CMS:** WordPress, Elementor, WPBakery
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools, Figma
-- **Deployment:** GitHub Pages
+| Category | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript, HTML5, CSS3, Tailwind CSS, SCSS, Bootstrap |
+| **React Ecosystem** | React Router, Vite, React Hooks |
+| **CMS** | WordPress, Elementor, WPBakery |
+| **Tools** | Git, GitHub, VS Code, Chrome DevTools, Figma |
+| **Deployment** | GitHub Pages |
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-#### 💰 React Expense Tracker
+### 💰 React Expense Tracker
 
-A responsive expense tracking application built with React, React Router, and SCSS.
+A responsive expense tracking application built with **React, React Router, and SCSS**.
 
-**Features:**
+**Features**
 - Add and manage expenses
-- Persistent data using LocalStorage
-- Dynamic search and filtering
+- Persistent data with LocalStorage
+- Search and filter expenses
 - Reusable React components
-- Responsive user interface
+- Responsive UI
 - Client-side routing
 
-🔗 [Live Demo](https://faizullahhussain.github.io/expense-tracker/)  
-💻 [Source Code](https://github.com/faizullahhussain/expense-tracker)
+🔗 **[Live Demo](https://faizullahhussain.github.io/expense-tracker/)** · 💻 **[Source Code](https://github.com/faizullahhussain/expense-tracker)**
 
 ---
 
-#### 🎬 React TMDB Movie App
+### 🎬 React TMDB Movie App
 
-A responsive movie discovery application built with React, SCSS, and the TMDB API.
+A responsive movie discovery application built with **React, SCSS, and the TMDB API**.
 
-**Features:**
+**Features**
 - Browse popular and top-rated movies
-- Search movies with debounced input
+- Search with debounced input
 - Movie details and dynamic routing
 - Add and remove favorite movies
-- Persistent favorites using LocalStorage
+- Persistent favorites with LocalStorage
 - Responsive design
 - REST API integration
 
-🔗 [Live Demo](https://faizullahhussain.github.io/react-tmdb-movie-app/)  
-💻 [Source Code](https://github.com/faizullahhussain/react-tmdb-movie-app)
+🔗 **[Live Demo](https://faizullahhussain.github.io/react-tmdb-movie-app/)** · 💻 **[Source Code](https://github.com/faizullahhussain/react-tmdb-movie-app)**
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced React.js
 - TypeScript
 - Modern frontend architecture
 - Performance optimization
-- Building scalable and reusable React applications
+- Scalable and reusable React applications
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 - 📧 **Email:** [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)
 - 💻 **GitHub:** [@faizullahhussain](https://github.com/faizullahhussain)
 - 🌐 **Portfolio:** [faizullahhussain.github.io/portfolio](https://faizullahhussain.github.io/portfolio/)
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/faizullah-hussain/)
+- 💼 **LinkedIn:** [Faizullah Hussain](https://www.linkedin.com/in/faizullah-hussain/)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahhussain" alt="Faizullah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahhussain&theme=github-dark-blue&hide_border=true" alt="Faizullah's GitHub Streak" />
 </p>
