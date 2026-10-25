@@ -13,10 +13,10 @@ I build fast, responsive websites. I started in **WordPress**, building and cust
 ## 🔧 What I Do
 
 **WordPress**
-- Custom sites with Elementor, WPBakery, and theme customization
+- Building complete websites with Elementor, themes, and plugins
 - Directory and business sites, forms, and email setup
 - Custom CSS and JavaScript snippets for features plugins don't cover
-- Plugin selection and configuration
+- Fixing layout and mobile issues
 
 **Frontend / React (building skills)**
 - React components with Hooks and React Router
@@ -38,14 +38,12 @@ I build fast, responsive websites. I started in **WordPress**, building and cust
 
 ## 🌐 WordPress Projects
 
-### VoIP Calling — Provider Comparison Website
-A WordPress site that helps businesses compare VoIP providers, with side-by-side provider sections for different use cases, a features library, pricing plans, FAQs, and a blog.
-**My role:** [add what you built, e.g. page layouts in Elementor, comparison sections, performance work]
+### VoIP Calling — VoIP Provider Comparison Website
+I built this whole website in WordPress with Elementor. It helps businesses compare VoIP phone providers. I built the pages for provider comparisons, VoIP features, pricing plans, FAQs, and the blog.
 🔗 [voipcalling.com](https://voipcalling.com/)
 
 ### Harley Mind Care — Private Psychiatry Clinic Website
-A WordPress website for a Harley Street, London psychiatry clinic, with service pages, team profiles, insurance and fees information, FAQs, and online appointment booking.
-**My role:** [add what you built, e.g. service pages, booking flow, responsive layouts]
+I built this whole website in WordPress with Elementor for a private clinic on Harley Street, London. I made the pages for services, team profiles, fees, insurance, and FAQs. I also worked on the contact forms and online appointment booking, and fixed layout problems so the site looks right on phones and tablets.
 🔗 [harleymindcare.com](https://www.harleymindcare.com/)
 
 ---
