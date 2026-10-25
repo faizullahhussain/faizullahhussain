@@ -1,92 +1,77 @@
-# 👋 Hi, I'm Faizullah Hussain
+# Hi, I'm Faizullah Hussain 👋
 
-### Frontend Developer | WordPress Developer | React.js | JavaScript
+### WordPress Developer · React Frontend Developer
 
-I'm a frontend developer focused on building **responsive, interactive, and user-friendly web applications** with React.js and modern JavaScript.
+I build fast, responsive websites. I started in **WordPress**, building and customizing real sites with Elementor, themes, and plugins. I now extend that with **React** for custom, interactive interfaces. I like turning designs into clean, working pages.
 
-I started my professional career with WordPress development and have transitioned into modern frontend development with React. I enjoy turning UI designs into functional interfaces, building reusable components, integrating APIs, and continuously improving my skills.
-
----
-
-## 💡 Frontend Development
-
-- ⚛️ **React.js** — Components, Hooks, Props, State, React Router
-- 🔹 **JavaScript (ES6+)** — Async/Await, Fetch API, DOM, Modern JavaScript
-- 🎨 **HTML5 & CSS3** — Responsive Design, Flexbox, Grid
-- 💅 **Tailwind CSS, SCSS & Bootstrap** — Responsive and modular styling
-- 🔗 **REST APIs** — API integration and asynchronous data handling
-- 🐙 **Git & GitHub** — Version control and collaboration
+[![Email](https://img.shields.io/badge/Email-faizhussain273@gmail.com-4f46e5?style=flat&logo=gmail&logoColor=white)](mailto:faizhussain273@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizullah-hussain/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4f46e5?style=flat&logo=googlechrome&logoColor=white)](https://faizullahhussain.github.io/portfolio/)
 
 ---
 
-## 🧰 Tools & Technologies
+## 🔧 What I Do
 
-| Category | Technologies |
+**WordPress**
+- Custom sites with Elementor, WPBakery, and theme customization
+- Directory and business sites, forms, and email setup
+- Custom CSS, JavaScript, and PHP snippets for features plugins don't cover
+- Plugin selection and configuration
+
+**Frontend / React**
+- Reusable React components with Hooks and React Router
+- REST API integration with async/await and the Fetch API
+- Responsive UI with Tailwind CSS, SCSS, and Bootstrap
+
+---
+
+## 🧰 Tech Stack
+
+| | |
 |---|---|
-| **Frontend** | React.js, JavaScript, HTML5, CSS3, Tailwind CSS, SCSS, Bootstrap |
-| **React Ecosystem** | React Router, Vite, React Hooks |
-| **CMS** | WordPress, Elementor, WPBakery |
-| **Tools** | Git, GitHub, VS Code, Chrome DevTools, Figma |
-| **Deployment** | GitHub Pages |
+| **WordPress** | Elementor · WPBakery · HivePress · WPCode · Fluent Forms · PHP · Custom CSS/JS |
+| **Frontend** | React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · SCSS · Bootstrap |
+| **Tools** | Git · GitHub · VS Code · Vite · Chrome DevTools · Figma |
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 WordPress Projects
 
-### 💰 React Expense Tracker
+### VoIP Calling — Provider Comparison Website
+A WordPress site that helps businesses compare VoIP providers, with side-by-side provider sections for different use cases, a features library, pricing plans, FAQs, and a blog.
+**My role:** [add what you built, e.g. page layouts in Elementor, comparison sections, performance work]
+🔗 [voipcalling.com](https://voipcalling.com/)
 
-A responsive expense tracking application built with **React, React Router, and SCSS**.
-
-**Features**
-- Add and manage expenses
-- Persistent data with LocalStorage
-- Search and filter expenses
-- Reusable React components
-- Responsive UI
-- Client-side routing
-
-🔗 **[Live Demo](https://faizullahhussain.github.io/expense-tracker/)** · 💻 **[Source Code](https://github.com/faizullahhussain/expense-tracker)**
+### Harley Mind Care — Private Psychiatry Clinic Website
+A WordPress website for a Harley Street, London psychiatry clinic, with service pages, team profiles, insurance and fees information, FAQs, and online appointment booking.
+**My role:** [add what you built, e.g. service pages, booking flow, responsive layouts]
+🔗 [harleymindcare.com](https://www.harleymindcare.com/)
 
 ---
 
-### 🎬 React TMDB Movie App
+## ⚛️ React Projects
 
-A responsive movie discovery application built with **React, SCSS, and the TMDB API**.
+### React TMDB Movie App
+Movie discovery app with the TMDB API: search with debounced input, dynamic routing, and favorites saved in LocalStorage.
+🔗 [Live Demo](https://faizullahhussain.github.io/react-tmdb-movie-app/) · 💻 [Source](https://github.com/faizullahhussain/react-tmdb-movie-app)
 
-**Features**
-- Browse popular and top-rated movies
-- Search with debounced input
-- Movie details and dynamic routing
-- Add and remove favorite movies
-- Persistent favorites with LocalStorage
-- Responsive design
-- REST API integration
-
-🔗 **[Live Demo](https://faizullahhussain.github.io/react-tmdb-movie-app/)** · 💻 **[Source Code](https://github.com/faizullahhussain/react-tmdb-movie-app)**
+### React Expense Tracker
+Expense tracker built with React, React Router, and SCSS: add, search, and filter expenses with persistent data.
+🔗 [Live Demo](https://faizullahhussain.github.io/expense-tracker/) · 💻 [Source](https://github.com/faizullahhussain/expense-tracker)
 
 ---
 
 ## 📚 Currently Learning
-
-- Advanced React.js
-- TypeScript
-- Modern frontend architecture
-- Performance optimization
-- Scalable and reusable React applications
+Advanced React · TypeScript · Performance optimization · Reusable component architecture
 
 ---
 
-## 📫 Let's Connect
-
-- 📧 **Email:** [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com)
-- 💻 **GitHub:** [@faizullahhussain](https://github.com/faizullahhussain)
-- 🌐 **Portfolio:** [faizullahhussain.github.io/portfolio](https://faizullahhussain.github.io/portfolio/)
-- 💼 **LinkedIn:** [Faizullah Hussain](https://www.linkedin.com/in/faizullah-hussain/)
+## 📫 Let's Work Together
+Open to **WordPress developer** and **frontend (React)** roles.
+Email me at [faizhussain273@gmail.com](mailto:faizhussain273@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/faizullah-hussain/).
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahhussain&theme=github-dark-blue&hide_border=true" alt="Faizullah's GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahhussain&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
